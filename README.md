@@ -1,3 +1,2 @@
-"# Blogs" 
-<h1> secret key hidden</h1>
-<h3> added new requirements</h3>
+<h1> Bloging App Using DJango</h1>
+<h3> All the necessary packages can be found in requirment.Txt</h3>
