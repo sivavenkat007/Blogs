@@ -5,7 +5,7 @@ function login(){
     var password = document.getElementById('loginPassword').value
     var csrf = document.getElementById('csrf').value
 
-    if(username == '' && password == ''){
+    if(username === '' && password === ''){
         alert('You must enter both')
     }
 
@@ -16,8 +16,9 @@ function login(){
 
     fetch('/api/login/',{
         method : 'POST',
-        header : {
-            'Content-Type': 'application/json; charset=UTF-8',
+        headers : {
+            'Content-Type': 'application/json',
+            'charset': 'utf-8',
             'X-CSRFToken' : csrf,
         },
         body : JSON.stringify(data)
