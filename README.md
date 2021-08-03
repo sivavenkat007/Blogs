@@ -4,22 +4,6 @@
 
 ### Blog App Supports:
 
-<<<<<<< HEAD
-- [Login](#login) / [Register](#register)
-- [User Authentication](#user-authentication)
-- [View Blogs](#viewblogs)
-- [Post Blogs](#postblogs)
-- [Update Blog](#update-blogs)
-- [View list of Blogs](#list)
-- [Removing Blogs](#remove-blogs)
-
-### Info about App Development and Usage.
-
-- all the necessary files can be found in requirement.txt
-- I user
-
-## Screenshots
-=======
 - [Register](#register) / [Login](#login)
 - [View Blogs](#view-blogs)
 - [Post Blogs](#post-blogs)
@@ -27,7 +11,7 @@
 - [View list of Blogs](#view-list-of-blogs)
 - [Remove Blog](#remove-blog)
 
-### Info about App Development and Usage.
+### App Development and Usage.
 - To Build this app, For Back-End I used Python language & Django framework.
 - For Front-End, I used HTML-5, CSS-3 & JavaScript.
 - I used db.sqlite3 data base to store data. 
@@ -45,18 +29,12 @@
 <p align="left">
 <a href="" target="_blank"> <img src="screenshots/register.gif" alt="register" /> </a>
 </p>
->>>>>>> development
 
 #### Login
 <p align="left">
 <a href="" target="_blank"> <img src="screenshots/login.gif" alt="login" /> </a>
 </p>
 
-<<<<<<< HEAD
-#### Register
-
-#### View Blog
-=======
 #### View Blogs
 
 <p align="left">
@@ -86,4 +64,3 @@
 <p align="left">
 <a href="" target="_blank"> <img src="screenshots/remove.gif" alt="remove-blog" /> </a>
 </p>
->>>>>>> development
